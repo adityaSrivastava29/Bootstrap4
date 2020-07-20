@@ -1,6 +1,6 @@
 {
   "name": "confusion",
-  "homepage": "https://adityasrivastava29.github.io.git/adityasrivastava29",
+  "homepage": "https://adityasrivastava29.github.io.git/Bootsrap4",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
@@ -24,6 +24,7 @@
     "bootstrap": "^4.5.0",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.12.9"
   }
